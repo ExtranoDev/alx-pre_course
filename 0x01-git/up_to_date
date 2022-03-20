@@ -1,3 +1,6 @@
 git checkout master
-git fetch origin
+git fecth orgin
 git pull origin master
+
+touch up_to_date
+vim up_to_date
